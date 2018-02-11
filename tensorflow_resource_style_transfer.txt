@@ -7,3 +7,5 @@ https://medium.com/@tinyline/copista-developing-neural-style-transfer-applicatio
 https://github.com/hzy46/fast-neural-style-tensorflow
 https://github.com/OlavHN/fast-neural-style
 https://github.com/cysmith/neural-style-tf
+https://shafeentejani.github.io/2017-01-03/fast-style-transfer/
+https://shafeentejani.github.io/2016-12-20/convolutional-neural-nets/
