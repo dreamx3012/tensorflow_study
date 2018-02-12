@@ -9,3 +9,5 @@ https://github.com/OlavHN/fast-neural-style
 https://github.com/cysmith/neural-style-tf
 https://shafeentejani.github.io/2017-01-03/fast-style-transfer/
 https://shafeentejani.github.io/2016-12-20/convolutional-neural-nets/
+xoa background
+https://docs.opencv.org/3.1.0/db/d5c/tutorial_py_bg_subtraction.html
